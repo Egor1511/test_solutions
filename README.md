@@ -22,7 +22,7 @@ This project is a Django-based web application containerized using Docker. It ut
 ### Step 1: Clone the Repository
 
 ```sh
-[git clone https://github.com/your-username/your-repository.git](https://github.com/Egor1511/test_solutions.git)
+git clone https://github.com/Egor1511/test_solutions.git
 cd your-repository
 ```
 
