@@ -61,8 +61,12 @@ We have created a Postman collection named **Test Solutions** for testing the AP
 ### Instructions to Run Postman Collection
 
 1. [Fork the Postman collection]([https://www.postman.com/your-username/workspace/test-solutions/collection/your-collection-id](https://www.postman.com/supply-cosmologist-43454487/workspace/github-test-tasks/collection/31564096-ce35917e-795f-47a3-9db8-577e26e057c9)) to your own Postman workspace.
-2. Set up the Postman environment variables as needed (e.g., `base_url` to `http://localhost:8000`).
-3. Run the requests in the collection on your local machine.
+
+```
+https://www.postman.com/your-username/workspace/test-solutions/collection/your-collection-id](https://www.postman.com/supply-cosmologist-43454487/workspace/github-test-tasks/collection/31564096-ce35917e-795f-47a3-9db8-577e26e057c9
+```
+3. Set up the Postman environment variables as needed (e.g., `base_url` to `http://localhost:8000`).
+4. Run the requests in the collection on your local machine.
 
 ### Postman Collection Link
 
